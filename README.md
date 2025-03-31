@@ -21,7 +21,7 @@ A **Streamlit-based data analytics dashboard** designed to help coffee shop owne
 ---
 ### Live Demo
  <a href= "https://coffeedashboardanalysis.streamlit.app/">App Demo</a>
-
+ 
 ---
 ### 🛠️ Tech Stack
 - **Python** (Data Processing & Analysis)
